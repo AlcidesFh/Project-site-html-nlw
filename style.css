@@ -1,6 +1,6 @@
 /*====  RESET ============================ */
 * {
-  margin: 0;colo
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -23,12 +23,11 @@ img {
   --header-height: 4.5rem;
 
   /* colors */
-  --hue: 159;
+  --hue: 209;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
-  --base-color-second: hsl(var(--hue) 65% 88%);
-  /*--base-color: hsl(var(--hue) 36% 57%);*/
-  /*--base-color-second: hsl(52.57deg 100% 73.92%); */
+  /*--base-color-second: hsl(var(--hue) 65% 88%);*/
+  --base-color-second: hsl(var(--hue) 37% 28%);
   --base-color-alt: hsl(var(--hue) 57% 53%);
   --title-color: hsl(var(--hue) 41% 10%);
   --text-color: hsl(0 0% 46%);
